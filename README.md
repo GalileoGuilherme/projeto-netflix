@@ -1,2 +1,2 @@
 # projeto-netflix
-Porjeto Netflix da DIO
+Projeto Netflix da DIO
